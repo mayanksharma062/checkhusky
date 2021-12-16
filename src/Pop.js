@@ -1,9 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class Pop extends Component {
-  render() {
-    return <div>
-      maskjkhfjdgjfgjsdfv;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-    </div>;;
-  }
+function Pop() {
+  const mayank = "";
+  return <div></div>;
 }
+
+export default Pop;
